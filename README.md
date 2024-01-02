@@ -1,4 +1,4 @@
-### 貼心提醒:請先降音量轉小再開啟
+### 貼心提醒:請先將音量轉小再開啟
 ![image](https://github.com/sylvia8813/scissor_paper_rock/assets/145385712/6965aa23-6015-4257-aa8f-174a5010c3ac)
 
 # Rock Scissors Paper Game
