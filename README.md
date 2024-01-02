@@ -23,9 +23,3 @@ Choose "Rock," "Paper," or "Scissors" by clicking the respective buttons.
 The computer will randomly select its move.
 The winner is determined based on the rock-paper-scissors rules.
 Scores are updated accordingly.
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/rock-scissors-paper-game.git
-   cd rock-scissors-paper-game
